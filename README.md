@@ -93,15 +93,6 @@ Each RCA report contains:
 
 ---
 
-##  Roadmap
-- [x] Filter discrete log lines
-- [x] Summarize RCA via Gemini
-- [ ] Support grouped/multi-line logs
-- [ ] Generate RCA dashboards
-- [ ] Log ingestion from Splunk directly
-
----
-
 ##  Author
 **Avinash Reddy**  
 GitHub: [aviansh9160](https://github.com/aviansh9160)
