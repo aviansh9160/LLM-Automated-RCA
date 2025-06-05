@@ -22,7 +22,6 @@ Logs:
 Respond with your analysis in plain English.
 """
 
-    # ✅ Fix: assign the response
     response = model.generate_content(prompt)
 
     # Save RCA output
