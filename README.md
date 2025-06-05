@@ -67,7 +67,8 @@ cd LLM-Automated-RCA
 
 ### 2. Install dependencies
 ```bash
-pip install -r requirements.txt
+google-generativeai
+python-dotenv
 ```
 
 ### 3. Create `.env` file
